@@ -153,6 +153,8 @@ Material changes to data handling will also be reflected in appropriate in-exten
 
 The "Last updated" date at the top of this policy identifies the current version.
 
+The use of information handled by Fantasy Gridiron HQ will adhere to the Chrome Web Store User Data Policy, including the Limited Use requirements.
+
 Contact
 Questions regarding this Privacy Policy or Fantasy Gridiron HQ privacy practices may be directed to:
 
